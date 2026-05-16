@@ -18,14 +18,14 @@
                    </tr>
              </tbody>
        </table>-->
-    <img src="images/wims.png">
+    <img src="wims.png">
           <h1>WIMS Industries</h1>
-          <p>A project by <a href="https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/">@everan</a> with help from my friends. Coming soon to a retrofuture near you!</p>
+          <p>A project by <a href="https://e34ran.github.io/web-everan/">@everan</a> with help from my friends. Coming soon to a retrofuture near you!</p>
           <br>
           <br>
           <h2>Subsidiaries</h2>
           <h3>Tech</h3>
-          <p><a href="https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/llames">l-lames</a> Sometimes LLMs don't fire on all cylinders</p>
+          <p><a href="https://e34ran.github.io/web-llames/">l-lames</a> Sometimes LLMs don't fire on all cylinders</p>
           <br>
           <h3>Music</h3>
           <p><a href="https://www.redcouchrecords.com/">Red Couch Records</a> These are not the beats you are looking for-- A progressive Hip-Hop label</p>
