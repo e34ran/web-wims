@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
- <head>
-       <title>WIMS Industries</title>
-       <style>
-            .style1{
-             font-family: Courier;
-            }
-      </style>
- </head>
-
- <body class="style1">
+<body class="style1">
        <!--<table>
              <tbody>
                    <tr><td>x</td>
@@ -18,7 +7,8 @@
                    </tr>
              </tbody>
        </table>-->
-    <img src="wims.png">
+ 
+  <img src="wims.png">
           <h1>WIMS Industries</h1>
           <p>A project by <a href="https://e34ran.github.io/web-everan/">@everan</a> with help from my friends. Coming soon to a retrofuture near you!</p>
           <br>
@@ -36,4 +26,3 @@
           <p><a href="https://www.seattle9-5.org">Seattle 9 to 5</a></p>
 
  </body>
-</html>
